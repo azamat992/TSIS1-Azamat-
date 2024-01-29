@@ -1,0 +1,91 @@
+#1
+x = 5
+print(type(x))
+
+#2
+x = "Hello World"	str
+
+#3
+x = 20	int
+
+#4
+x = 20.5	float
+
+#5
+x = 1j	complex
+
+#6
+x = ["apple", "banana", "cherry"]	list
+
+#7
+x = ("apple", "banana", "cherry")	tuple	
+
+#8
+x = range(6)	range
+
+#9
+x = {"name" : "John", "age" : 36}	dict
+
+#10
+x = {"apple", "banana", "cherry"}	set
+
+#11
+x = frozenset({"apple", "banana", "cherry"})	frozenset	
+
+#12
+x = True	bool	
+
+#13
+x = b"Hello"	bytes	
+
+#14
+x = bytearray(5)	bytearray	
+
+#15
+x = memoryview(bytes(5))	memoryview	
+
+#16
+x = None	NoneType
+
+#17
+x = str("Hello World")	str
+
+#18
+x = int(20)	int	
+
+#19
+x = float(20.5)	float	
+
+#20
+x = complex(1j)	complex	
+
+#21
+x = list(("apple", "banana", "cherry"))	list	
+
+#22
+x = tuple(("apple", "banana", "cherry"))	tuple	
+
+#23
+x = range(6)	range	
+
+#24
+x = dict(name="John", age=36)	dict	
+
+#25
+x = set(("apple", "banana", "cherry"))	set	
+
+#26
+x = frozenset(("apple", "banana", "cherry"))	frozenset	
+
+#27
+x = bool(5)	bool	
+
+#28
+x = bytes(5)	bytes	
+
+#29
+x = bytearray(5)	bytearray	
+
+#30
+x = memoryview(bytes(5))	memoryview
+
